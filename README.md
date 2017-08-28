@@ -3,5 +3,5 @@
 ### Install
 `npm install`
 
-### Strat
+### Start
 `supervisor --harmony index`
